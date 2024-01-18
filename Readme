@@ -1,1 +1,3 @@
-R
+## Algorithm Development for Classical Lamination Theory
+Developed an algorithm to implement Classical Lamination Theory in composite materials. The algorithm efficiently processed ply lay-up sequences, orientations, and material properties in material coordinates to accurately determine the effective properties of the laminate in loading coordinates. Additionally, conducted comprehensive data analysis by plotting graphs for various loading conditions and meticulously cross-referenced the results with standard data to ensure accuracy and reliability.
+
